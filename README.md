@@ -44,8 +44,17 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/70f0216c-6240-4444-bea7-e6a857c079ae" />
+" width="250" alt="Login" style="margin-right: 10px;"/>
+  <img src="<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/3643ecfc-4fef-4df6-b1d0-2cb55370d999" />
+" width="250" alt="SignUp"/>
+</p>
+
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250" alt="Citizen Dashboard" style="margin-right: 10px;"/>
-  <img src="screenshots/complaint_module.png" width="250" alt="Complaint Module"/>
+  <img src="<img width="585" height="1266" alt="Screenshot 2025-10-29 at 4 32 48 PM" src="https://github.com/user-attachments/assets/123ad8f8-fe57-4790-a86f-93383a890d4f" />
+" width="250" alt="Complaint Module"/>
 </p>
 
 <p align="center">
