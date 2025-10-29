@@ -63,15 +63,7 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
   <img src="https://github.com/user-attachments/assets/168285f1-8ea0-4e9b-bcc0-e46a6275d055" width="250" alt="Worker Dashboard"/>
 </p>
 
-<p align="center">
-  🔐 Login &nbsp;&nbsp;&nbsp;&nbsp; 🧾 Sign Up  
-  <br>
-  🧍 Citizen Dashboard &nbsp;&nbsp;&nbsp;&nbsp; 🗑️ Complaint Module  
-  <br>
-  🚛 PickUp Module &nbsp;&nbsp;&nbsp;&nbsp; ♻️ E-Waste Module  
-  <br>
-  🏢 Admin Dashboard &nbsp;&nbsp;&nbsp;&nbsp; 👷 Worker Dashboard
-</p>
+
 
 
 
