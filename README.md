@@ -44,24 +44,53 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70f0216c-6240-4444-bea7-e6a857c079ae" width="250" alt="Login" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/3643ecfc-4fef-4df6-b1d0-2cb55370d999" width="250" alt="SignUp"/>
+  <figure>
+    <img src="https://github.com/user-attachments/assets/70f0216c-6240-4444-bea7-e6a857c079ae" width="250" alt="Login" style="margin-right: 20px;">
+    <figcaption align="center">🔐 <b>Login Screen:</b> Users log in securely with their credentials.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://github.com/user-attachments/assets/3643ecfc-4fef-4df6-b1d0-2cb55370d999" width="250" alt="SignUp">
+    <figcaption align="center">🧾 <b>Sign-Up Screen:</b> New users create an account to access the app.</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250" alt="Citizen Dashboard" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/123ad8f8-fe57-4790-a86f-93383a890d4f" width="250" alt="Complaint Module"/>
+  <figure>
+    <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250" alt="Citizen Dashboard" style="margin-right: 20px;">
+    <figcaption align="center">🧍 <b>Citizen Dashboard:</b> Shows reported issues and scheduled pickups.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://github.com/user-attachments/assets/123ad8f8-fe57-4790-a86f-93383a890d4f" width="250" alt="Complaint Module">
+    <figcaption align="center">🗑️ <b>Complaint Module:</b> Citizens report waste issues with photos and location.</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4913c5fb-44ba-4b22-9aac-c1d7f5bcafd5" width="250" alt="PickUp Module" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/253e0e3c-01a7-4243-b978-17f4f0f17796" width="250" alt="Ewaste Module"/>
+  <figure>
+    <img src="https://github.com/user-attachments/assets/4913c5fb-44ba-4b22-9aac-c1d7f5bcafd5" width="250" alt="PickUp Module" style="margin-right: 20px;">
+    <figcaption align="center">🚛 <b>Pickup Module:</b> Allows users to schedule dry, wet, or e-waste pickups.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://github.com/user-attachments/assets/253e0e3c-01a7-4243-b978-17f4f0f17796" width="250" alt="Ewaste Module">
+    <figcaption align="center">♻️ <b>E-Waste Module:</b> Tracks e-waste collection points and requests.</figcaption>
+  </figure>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250" alt="Admin Dashboard" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/168285f1-8ea0-4e9b-bcc0-e46a6275d055" width="250" alt="Worker Dashboard"/>
+  <figure>
+    <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250" alt="Admin Dashboard" style="margin-right: 20px;">
+    <figcaption align="center">🏢 <b>Admin Dashboard:</b> Admins assign, track, and escalate complaints.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://github.com/user-attachments/assets/168285f1-8ea0-4e9b-bcc0-e46a6275d055" width="250" alt="Worker Dashboard">
+    <figcaption align="center">👷 <b>Worker Dashboard:</b> Workers view and complete assigned tasks in real time.</figcaption>
+  </figure>
 </p>
+
 
 
 
