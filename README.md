@@ -113,6 +113,11 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 
 ---
 
+## 📚 References
+1. 🇮🇳 Government of India, *Solid Waste Management Rules, 2016*. [Online] http://moef.gov.in  
+2. 🧹 Swachh Bharat Mission (Urban), *Annual Report on Municipal Solid Waste Management*, 2023. [Online] https://sbmurban.org  
+3. 🏛️ Ministry of Housing and Urban Affairs, *Swachhata-MoHUA Mobile Application*. [Online] https://swachhbharatmission.gov.in/swachhata-app  
+
 
 
 
