@@ -1,5 +1,6 @@
 # SmartWaste360
 A Unified Waste Management App
+
 #Overview
 
 SmartWaste360 is an iOS app that brings citizens, municipal workers, and administrators together on one digital platform.
