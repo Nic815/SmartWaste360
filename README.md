@@ -57,36 +57,36 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 
 <p align="center">
   <figure>
-    <figcaption align="center">🧍 <b>Citizen Dashboard:</b> Displays reported issues and scheduled pickups.</figcaption>
+    <figcaption align="center">🧍 <b>Citizen Dashboard:</figcaption>
     <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250" alt="Citizen Dashboard" style="margin-right: 20px;">
   </figure>
 
   <figure>
-    <figcaption align="center">🗑️ <b>Complaint Module:</b> Citizens report waste issues with photos and location.</figcaption>
+    <figcaption align="center">🗑️ <b>Complaint Module:</figcaption>
     <img src="https://github.com/user-attachments/assets/123ad8f8-fe57-4790-a86f-93383a890d4f" width="250" alt="Complaint Module">
   </figure>
 </p>
 
 <p align="center">
   <figure>
-    <figcaption align="center">🚛 <b>Pickup Module:</b> Users schedule dry, wet, or e-waste pickups easily.</figcaption>
+    <figcaption align="center">🚛 <b>Pickup Module:</figcaption>
     <img src="https://github.com/user-attachments/assets/4913c5fb-44ba-4b22-9aac-c1d7f5bcafd5" width="250" alt="PickUp Module" style="margin-right: 20px;">
   </figure>
 
   <figure>
-    <figcaption align="center">♻️ <b>E-Waste Module:</b> Shows e-waste collection points and status updates.</figcaption>
+    <figcaption align="center">♻️ <b>E-Waste Module:</figcaption>
     <img src="https://github.com/user-attachments/assets/253e0e3c-01a7-4243-b978-17f4f0f17796" width="250" alt="Ewaste Module">
   </figure>
 </p>
 
 <p align="center">
   <figure>
-    <figcaption align="center">🏢 <b>Admin Dashboard:</b> Admins assign, track, and escalate complaints.</figcaption>
+    <figcaption align="center">🏢 <b>Admin Dashboard:</figcaption>
     <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250" alt="Admin Dashboard" style="margin-right: 20px;">
   </figure>
 
   <figure>
-    <figcaption align="center">👷 <b>Worker Dashboard:</b> Workers view and complete assigned cleanup tasks.</figcaption>
+    <figcaption align="center">👷 <b>Worker Dashboard:</figcaption>
     <img src="https://github.com/user-attachments/assets/168285f1-8ea0-4e9b-bcc0-e46a6275d055" width="250" alt="Worker Dashboard">
   </figure>
 </p>
