@@ -51,7 +51,7 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 ---
 
 ## 🎥 Demo Video
-🎬 [Watch Demo Video](smartwaste360 Demo.mp4)  
+🎬 [Watch Demo Video]([smartwaste360 Demo.mp4](https://github.com/user-attachments/assets/1fd314ab-2750-4dba-8f60-925a1ae51241))  
 *(Upload your `.mp4` file or YouTube demo link here.)*
 
 ---
@@ -83,3 +83,13 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 **🏫 Institute:** Indian Institute of Information Technology, Una (IIITU)  
 **🧑‍🏫 Supervisor:** Dr. Neha Sharma  
 **📄 License:** MIT License  
+
+
+
+
+
+
+
+
+
+
