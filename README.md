@@ -43,17 +43,26 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 
 ## 📸 Screenshots
 
-### 🧍 Citizen Dashboard
-![Citizen Dashboard](https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74)
+<p align="center">
+  <b>🧍 Citizen Dashboard</b><br>
+  <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250">
+</p>
 
-### 🗑️ Complaint Module
-![Complaint Module](screenshots/complaint_module.png)
+<p align="center">
+  <b>🗑️ Complaint Module</b><br>
+  <img src="screenshots/complaint_module.png" width="250">
+</p>
 
-### 🗺️ Bin Locator
-![Bin Locator](screenshots/bin_locator.png)
+<p align="center">
+  <b>🗺️ Bin Locator</b><br>
+  <img src="screenshots/bin_locator.png" width="250">
+</p>
 
-### 🧾 Admin Dashboard
-![Admin Dashboard](https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4)
+<p align="center">
+  <b>🧾 Admin Dashboard</b><br>
+  <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250">
+</p>
+
 
 
 *(Replace image paths with your actual screenshots.)*
@@ -61,8 +70,15 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 ---
 
 ## 🎥 Demo Video
-🎬 [Watch Demo Video]([smartwaste360 Demo.mp4](https://github.com/user-attachments/assets/1fd314ab-2750-4dba-8f60-925a1ae51241))  
-*(Upload your `.mp4` file or YouTube demo link here.)*
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/1fd314ab-2750-4dba-8f60-925a1ae51241" width="400" controls autoplay loop muted>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+*(If the video doesn’t load, please open it directly from the repository’s “Assets” section.)*
+
 
 ---
 
