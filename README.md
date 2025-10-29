@@ -21,7 +21,7 @@ The goal is to make waste management more **transparent, accountable, and motiva
 
 ## 🧩 Tech Stack
 - 💻 **Language:** Swift (SwiftUI + MVVM)  
-- ☁️ **Backend:** Firebase Authentication, Firestore, Cloud Storage, Cloud Messaging  
+- ☁️ **Backend:** Firebase Authentication, Firestore
 - 🗺️ **APIs:** Google Maps SDK for iOS, CoreLocation  
 - 📱 **Platform:** iOS 17 and later  
 
