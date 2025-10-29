@@ -46,12 +46,12 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 <p align="center">
   <figure>
     <img src="https://github.com/user-attachments/assets/70f0216c-6240-4444-bea7-e6a857c079ae" width="250" alt="Login" style="margin-right: 20px;">
-    <figcaption align="center">🔐 <b>Login Screen:</b> Users log in securely with their credentials.</figcaption>
+    <figcaption align="center">🔐 <b>Login Screen:</figcaption>
   </figure>
 
   <figure>
     <img src="https://github.com/user-attachments/assets/3643ecfc-4fef-4df6-b1d0-2cb55370d999" width="250" alt="SignUp">
-    <figcaption align="center">🧾 <b>Sign-Up Screen:</b> New users create an account to access the app.</figcaption>
+    <figcaption align="center">🧾 <b>Sign-Up Screen:</figcaption>
   </figure>
 </p>
 
