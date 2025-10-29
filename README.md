@@ -43,54 +43,48 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 
 ## 📸 Screenshots
 
-<p align="center">
-  <figure>
-    <figcaption align="center">🔐 <b>Login Screen:</figcaption>
-    <img src="https://github.com/user-attachments/assets/70f0216c-6240-4444-bea7-e6a857c079ae" width="250" alt="Login" style="margin-right: 20px;">
-  </figure>
-
-  <figure>
-    <figcaption align="center">🧾 <b>Sign-Up Screen:</figcaption>
-    <img src="https://github.com/user-attachments/assets/3643ecfc-4fef-4df6-b1d0-2cb55370d999" width="250" alt="SignUp">
-  </figure>
-</p>
-
-<p align="center">
-  <figure>
-    <figcaption align="center">🧍 <b>Citizen Dashboard:</figcaption>
-    <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250" alt="Citizen Dashboard" style="margin-right: 20px;">
-  </figure>
-
-  <figure>
-    <figcaption align="center">🗑️ <b>Complaint Module:</figcaption>
-    <img src="https://github.com/user-attachments/assets/123ad8f8-fe57-4790-a86f-93383a890d4f" width="250" alt="Complaint Module">
-  </figure>
-</p>
-
-<p align="center">
-  <figure>
-    <figcaption align="center">🚛 <b>Pickup Module:</figcaption>
-    <img src="https://github.com/user-attachments/assets/4913c5fb-44ba-4b22-9aac-c1d7f5bcafd5" width="250" alt="PickUp Module" style="margin-right: 20px;">
-  </figure>
-
-  <figure>
-    <figcaption align="center">♻️ <b>E-Waste Module:</figcaption>
-    <img src="https://github.com/user-attachments/assets/253e0e3c-01a7-4243-b978-17f4f0f17796" width="250" alt="Ewaste Module">
-  </figure>
-</p>
-
-<p align="center">
-  <figure>
-    <figcaption align="center">🏢 <b>Admin Dashboard:</figcaption>
-    <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250" alt="Admin Dashboard" style="margin-right: 20px;">
-  </figure>
-
-  <figure>
-    <figcaption align="center">👷 <b>Worker Dashboard:</figcaption>
-    <img src="https://github.com/user-attachments/assets/168285f1-8ea0-4e9b-bcc0-e46a6275d055" width="250" alt="Worker Dashboard">
-  </figure>
-</p>
-
+<table>
+  <tr>
+    <td align="center">
+      <strong>🔐 Login Screen</strong><br>
+      <img src="https://github.com/user-attachments/assets/70f0216c-6240-4444-bea7-e6a857c079ae" width="250" alt="Login">
+    </td>
+    <td align="center">
+      <strong>🧾 Sign-Up Screen</strong><br>
+      <img src="https://github.com/user-attachments/assets/3643ecfc-4fef-4df6-b1d0-2cb55370d999" width="250" alt="SignUp">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🧍 Citizen Dashboard</strong><br>
+      <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250" alt="Citizen Dashboard">
+    </td>
+    <td align="center">
+      <strong>🗑️ Complaint Module</strong><br>
+      <img src="https://github.com/user-attachments/assets/123ad8f8-fe57-4790-a86f-93383a890d4f" width="250" alt="Complaint Module">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🚛 Pickup Module</strong><br>
+      <img src="https://github.com/user-attachments/assets/4913c5fb-44ba-4b22-9aac-c1d7f5bcafd5" width="250" alt="Pickup Module">
+    </td>
+    <td align="center">
+      <strong>♻️ E-Waste Module</strong><br>
+      <img src="https://github.com/user-attachments/assets/253e0e3c-01a7-4243-b978-17f4f0f17796" width="250" alt="Ewaste Module">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🏢 Admin Dashboard</strong><br>
+      <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250" alt="Admin Dashboard">
+    </td>
+    <td align="center">
+      <strong>👷 Worker Dashboard</strong><br>
+      <img src="https://github.com/user-attachments/assets/168285f1-8ea0-4e9b-bcc0-e46a6275d055" width="250" alt="Worker Dashboard">
+    </td>
+  </tr>
+</table>
 
 
 
