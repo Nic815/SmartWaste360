@@ -42,11 +42,19 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 ---
 
 ## 📸 Screenshots
-| Citizen Dashboard | Complaint Module | Bin Locator | Admin Panel |
-|:------------------:|:----------------:|:------------:|:-------------:|
-| ![Citizen Dashboard](<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" />
-) | ![Complaint Module](screenshots/complaint_module.png) | ![Bin Locator](screenshots/bin_locator.png) | ![Admin Dashboard](<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" />
-) |
+
+### 🧍 Citizen Dashboard
+![Citizen Dashboard](https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74)
+
+### 🗑️ Complaint Module
+![Complaint Module](screenshots/complaint_module.png)
+
+### 🗺️ Bin Locator
+![Bin Locator](screenshots/bin_locator.png)
+
+### 🧾 Admin Dashboard
+![Admin Dashboard](https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4)
+
 
 *(Replace image paths with your actual screenshots.)*
 
