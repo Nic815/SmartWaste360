@@ -44,23 +44,19 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 ## 📸 Screenshots
 
 <p align="center">
-  <b>🧍 Citizen Dashboard</b><br>
-  <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250">
+  <img src="https://github.com/user-attachments/assets/9ff93b06-dae9-479e-8583-d3d19bc8fe74" width="250" alt="Citizen Dashboard" style="margin-right: 10px;"/>
+  <img src="screenshots/complaint_module.png" width="250" alt="Complaint Module"/>
 </p>
 
 <p align="center">
-  <b>🗑️ Complaint Module</b><br>
-  <img src="screenshots/complaint_module.png" width="250">
+  <img src="screenshots/bin_locator.png" width="250" alt="Bin Locator" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250" alt="Admin Dashboard"/>
 </p>
 
 <p align="center">
-  <b>🗺️ Bin Locator</b><br>
-  <img src="screenshots/bin_locator.png" width="250">
-</p>
-
-<p align="center">
-  <b>🧾 Admin Dashboard</b><br>
-  <img src="https://github.com/user-attachments/assets/22b2e61b-31c5-4b3e-875c-928d82618ca4" width="250">
+  🧍 Citizen Dashboard &nbsp;&nbsp;&nbsp;&nbsp; 🗑️ Complaint Module  
+  <br>
+  🗺️ Bin Locator &nbsp;&nbsp;&nbsp;&nbsp; 🧾 Admin Dashboard
 </p>
 
 
