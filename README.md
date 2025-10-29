@@ -51,7 +51,7 @@ Together, these create a **complete, scalable, and citizen-friendly waste manage
 ---
 
 ## 🎥 Demo Video
-🎬 [Watch Demo Video](demo/demo_video.mp4)  
+🎬 [Watch Demo Video](smartwaste360 Demo.mp4)  
 *(Upload your `.mp4` file or YouTube demo link here.)*
 
 ---
